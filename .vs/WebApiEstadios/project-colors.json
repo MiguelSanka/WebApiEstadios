@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a4d393d-172d-4548-91a2-8c23f83fff81": {
+      "ProjectGuid": "9a4d393d-172d-4548-91a2-8c23f83fff81",
+      "DisplayName": "WebApiEstadios",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
