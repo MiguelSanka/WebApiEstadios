@@ -1,4 +1,7 @@
 ﻿
+using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
+
 namespace WebApiEstadios
 {
     public class Startup
@@ -13,10 +16,16 @@ namespace WebApiEstadios
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+            services.AddControllers().AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            
+            services.AddDbContext<ApplicationDBContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("defaultConnection")));
+            
             services.AddEndpointsApiExplorer();
-            services.AddSwaggerGen();
+            services.AddSwaggerGen(c => 
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Api Estadios Chidos", Version = "v1" })
+            );
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

@@ -1,3 +1,9 @@
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.AssemblyInfoInputs.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.AssemblyInfo.cs
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\appsettings.json
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.exe
@@ -6,25 +12,6 @@ C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Web
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\ref\WebApiEstadios.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.pdb
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.AssemblyReference.cache
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.AssemblyInfoInputs.cache
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.AssemblyInfo.cs
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.CoreCompileInputs.cache
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\scopedcss\bundle\WebApiEstadios.styles.css
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.CopyComplete
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.dll
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\ref\WebApiEstadios.dll
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.pdb
-C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.genruntimeconfig.cache
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Humanizer.dll
@@ -53,9 +40,13 @@ C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Mic
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\System.CodeDom.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\System.Drawing.Common.dll
@@ -80,3 +71,94 @@ C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\run
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\scopedcss\bundle\WebApiEstadios.styles.css
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.CopyComplete
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\ref\WebApiEstadios.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.pdb
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.genruntimeconfig.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\appsettings.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.exe
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.deps.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.runtimeconfig.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\ref\WebApiEstadios.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\WebApiEstadios.pdb
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.AssemblyReference.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.AssemblyInfoInputs.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.AssemblyInfo.cs
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\scopedcss\bundle\WebApiEstadios.styles.css
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.CopyComplete
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\ref\WebApiEstadios.dll
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.pdb
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios - Copy\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.genruntimeconfig.cache
+C:\Users\Miguel Sanka\Desktop\WebApiEstadios\WebApiEstadios\obj\Debug\net6.0\WebApiEstadios.csproj.AssemblyReference.cache

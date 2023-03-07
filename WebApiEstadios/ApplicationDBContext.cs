@@ -9,7 +9,9 @@ namespace WebApiEstadios
         {
 
         }
+
         public DbSet<Estadio> Estadios { get; set; }
+        public DbSet<Equipo> Equipos { get; set; }
 
     }
 }
